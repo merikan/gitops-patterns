@@ -23,4 +23,4 @@ Using Syncwave, Hooks or Application Sets, we will present the advanced deployme
 
 ## Slides
 
-* [GitOps Patterns for Managing Cloud-Native Applications Session Slides](https://github.com/rcarrata/kcd23ams-gitops-patterns/blob/main/docs/KCD%20AMS%20-%20GitOps%20Patterns%20for%20Managing%20Cloud%20Native%20Applications.pdf)
+* [GitOps Patterns for Managing Cloud-Native Applications Session Slides](https://github.com/merikan/gitops-patterns/blob/main/docs/KCD%20AMS%20-%20GitOps%20Patterns%20for%20Managing%20Cloud%20Native%20Applications.pdf)

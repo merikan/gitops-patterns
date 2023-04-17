@@ -6,7 +6,7 @@ metadata:
 spec:
   generators:
     - git:
-        repoURL: https://github.com/rcarrata/kcd23ams-gitops-patterns
+        repoURL: https://github.com/merikan/gitops-patterns
         revision: main
         directories:
           - path: apps/pattern4/prod-env/apps/*
@@ -21,7 +21,7 @@ spec:
           prune: true
           selfHeal: true
       source:
-        repoURL: https://github.com/rcarrata/kcd23ams-gitops-patterns
+        repoURL: https://github.com/merikan/gitops-patterns
         targetRevision: main
         path: "{{path}}"
       destination:

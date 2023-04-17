@@ -10,7 +10,7 @@ spec:
   project: dev-env-project
   source:
     path: demos/pattern3/components/
-    repoURL: https://github.com/rcarrata/kcd23ams-gitops-patterns
+    repoURL: https://github.com/merikan/gitops-patterns
     targetRevision: main
   syncPolicy:
     automated:

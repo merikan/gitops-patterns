@@ -16,7 +16,7 @@ spec:
           prune: true
           selfHeal: true
       source:
-        repoURL: https://github.com/rcarrata/kcd23ams-gitops-patterns
+        repoURL: https://github.com/merikan/gitops-patterns
         targetRevision: main
         path: demos/pattern5/base/
       destination:
